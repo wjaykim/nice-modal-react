@@ -14,7 +14,7 @@
 /build
 /example/build
 /dll
-/lib
+#/lib
 
 # tmp
 /tmp
